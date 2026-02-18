@@ -8,7 +8,7 @@ The virtual machine setup before starting the Active Directory lab, demonstratin
 
 
 ![image alt](https://github.com/maal700/Active-Directory-Home-Lab/blob/4d92f35fc31ebfcfa143e992360aba48000ba37d/desktop.png)
-This shows the Windows login screen for the lab VM, displaying the domain and user account (JAG\JAG). It confirms the virtual machine is properly joined to the Active Directory domain and ready for lab exercises.
+This shows the Windows login screen for the lab VM, displaying the domain and user account (JAG/JAG). It confirms the virtual machine is properly joined to the Active Directory domain and ready for lab exercises.
 
 
 
