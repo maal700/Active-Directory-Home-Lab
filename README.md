@@ -3,7 +3,7 @@ Windows Server Active Directory home lab showing installation of AD DS, promotio
 
 
 ![image alt](https://github.com/maal700/Active-Directory-Home-Lab/blob/2123e72d15407ca172c01d5557e73c8c451eeb9d/image.png) 
-The virtual machine setup before starting the Active Directory lab, demonstrating proper preparation and environment configuration for IT lab work
+The virtual machine setup before starting the Active Directory lab, demonstrating proper preparation and environment configuration for IT lab work.
 
 
 
@@ -18,7 +18,7 @@ This shows the Server Manager dashboard after installing server roles and config
 
 
 ![image alt](https://github.com/maal700/Active-Directory-Home-Lab/blob/4d92f35fc31ebfcfa143e992360aba48000ba37d/properties.png)
-This shows the Local Server view in Server Manager, highlighting the domain configuration, computer name, operating system, and hardware setup
+This shows the Local Server view in Server Manager, highlighting the domain configuration, computer name, operating system, and hardware setup.
 
 
 
